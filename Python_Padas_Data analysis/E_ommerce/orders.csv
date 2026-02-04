@@ -999,3 +999,4 @@ order_id,customer_id,order_date,region,product_category,price,quantity,coupon_co
 998,216,11/29/2024,East,Home,31.22,3,SPRING20,93.66,TRUE
 999,240,8/28/2024,North,Electronics,287.13,4,,1148.52,TRUE
 1000,186,10/15/2024,East,Home,42.42,4,,169.68,TRUE
+,,,,,,28,,,
